@@ -1,3 +1,18 @@
 # Ignore Python virtual environment files
 venv/
 .venv/
+
+# Ignore Python byte code files
+*.pyc
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore .png files
+*.png
+
+# Ignore .log files
+*.log
+
+# .lock files are used by pip-tools
+*.lock
