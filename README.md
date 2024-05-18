@@ -6,7 +6,7 @@
 
 # Installation
 
-## Normal without using Poetry Dependency Management 
+## Using pip 
 1. clone this repository
 
 2. 

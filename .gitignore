@@ -18,4 +18,4 @@ __pycache__/
 *.lock
 
 # Ignore .txt files
-*.txt
+.txt
