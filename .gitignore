@@ -14,5 +14,7 @@ __pycache__/
 # Ignore .log files
 *.log
 
-# .lock files are used by pip-tools
+# Ignore .lock files
 *.lock
+
+# Ignore .txt files
